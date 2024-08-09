@@ -57,9 +57,9 @@ The calculator instantly updates the total amount invested whenever any of the i
 
 The two hypotheses tested in the project are:
 
-H1: Slider input is more efficient for short-range sliders than for long-range sliders.
+**H1: Slider input is more efficient for short-range sliders than for long-range sliders.**
 
 This hypothesis suggests that users might find it easier and quicker to make accurate selections with sliders that have a smaller range (like the interest rate and time period) compared to those with a larger range (like the monthly investment amount).
-H2: Slider input is less efficient when precise results are required.
+**H2: Slider input is less efficient when precise results are required.**
 
 This hypothesis posits that sliders may be less effective when users need to select very specific values, potentially leading to inaccuracies in the final outcome.
